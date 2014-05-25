@@ -1,4 +1,4 @@
 Coursera | Machine Learning
 =========================
 
-Here are resolved exercises working during this course: https://www.coursera.org/course/ml
+Here are resolved exercises in Octave. Course: https://www.coursera.org/course/ml
